@@ -21,6 +21,16 @@ This repository contains all the tasks completed during my Data Analytics Intern
 - TextBlob
 - WordCloud
 
+## ## How to Run
+
+1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run notebooks or scripts inside each task folder
+
 Thank you for visiting my repository!
 
 Aurthor: 
