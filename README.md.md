@@ -22,3 +22,6 @@ This repository contains all the tasks completed during my Data Analytics Intern
 - WordCloud
 
 Thank you for visiting my repository!
+
+Aurthor: 
+Roshni Dubey
