@@ -24,7 +24,7 @@ This repository contains all the tasks completed during my Data Analytics Intern
 ## ## How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Roshnidubey0906/CodeAlpha-Data_Analytics_Internship_Projects
 
 2. Install dependencies
 pip install -r requirements.txt
