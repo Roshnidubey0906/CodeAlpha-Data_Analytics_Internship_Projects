@@ -21,7 +21,7 @@ This repository contains all the tasks completed during my Data Analytics Intern
 - TextBlob
 - WordCloud
 
-## ## How to Run
+## How to Run
 
 1. Clone the repository
 git clone https://github.com/Roshnidubey0906/CodeAlpha-Data_Analytics_Internship_Projects
